@@ -1,4 +1,4 @@
-# 🛒 Crefti - Handmade Products E-Commerce Android App
+# 🛒 Crefti - Handmade Products E-Commerce App
 
 Crefti is an E-Commerce app designed for handmade products. It provides a platform for artisans and creators to showcase and sell their unique, handmade items. Built with Java, XML, and Firebase, Crefti offers a seamless and secure shopping experience for users interested in one-of-a-kind, crafted goods. 
 Designed for performance, scalability, and a smooth shopping experience. ✨
