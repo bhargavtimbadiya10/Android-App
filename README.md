@@ -1,7 +1,48 @@
-# 🛒 Crefti - Handmade Products E-Commerce App
+# 🛒 E-Commerce App
 
-Crefti is an E-Commerce app designed for handmade products. It provides a platform for artisans and creators to showcase and sell their unique, handmade items. Built with Java, XML, and Firebase, Crefti offers a seamless and secure shopping experience for users interested in one-of-a-kind, crafted goods. 
-Designed for performance, scalability, and a smooth shopping experience. ✨
+# 🛒 E-Commerce Android App
+
+This is a simple and modern **E-Commerce mobile application** built using **Android Studio**.  
+Users can browse products, add items to cart, place orders, and manage their profile.  
+The app includes a clean UI and smooth navigation for a better user experience.
+
+---
+
+## ✨ Features
+- 👤 **User Authentication**
+  - Login / Signup
+  - Forgot Password
+- 🛍️ **Product Browsing**
+  - Categories
+  - Product Details
+- 🛒 **Shopping Cart**
+  - Add / Remove Products  
+  - Update Quantity
+- 💳 **Checkout System**
+  - Address Form  
+  - Order Confirmation
+- 📦 **Order History**
+- 🛠️ **Admin Panel (Optional)**
+  - Add / Edit / Delete Products
+- 🎨 **Beautiful UI**
+  - XML UI with Material Design
+
+---
+
+## 🛠️ Tech Stack
+- **Language:** Java  
+- **Frontend (UI):** XML, Material Design  
+- **Backend (Optional):** Firebase / REST API  
+- **Database:** Firebase / SQLite / Room  
+- **Tools:** Android Studio, Gradle  
+
+---
+
+## ⚙️ Setup & Installation (Android Studio)
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/ecommerce-android-app.git
 
 ---
 
