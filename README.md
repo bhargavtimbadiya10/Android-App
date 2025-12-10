@@ -1,48 +1,8 @@
 # 🛒 E-Commerce App
 
-# 🛒 E-Commerce Android App
-
 This is a simple and modern **E-Commerce mobile application** built using **Android Studio**.  
 Users can browse products, add items to cart, place orders, and manage their profile.  
 The app includes a clean UI and smooth navigation for a better user experience.
-
----
-
-## ✨ Features
-- 👤 **User Authentication**
-  - Login / Signup
-  - Forgot Password
-- 🛍️ **Product Browsing**
-  - Categories
-  - Product Details
-- 🛒 **Shopping Cart**
-  - Add / Remove Products  
-  - Update Quantity
-- 💳 **Checkout System**
-  - Address Form  
-  - Order Confirmation
-- 📦 **Order History**
-- 🛠️ **Admin Panel (Optional)**
-  - Add / Edit / Delete Products
-- 🎨 **Beautiful UI**
-  - XML UI with Material Design
-
----
-
-## 🛠️ Tech Stack
-- **Language:** Java  
-- **Frontend (UI):** XML, Material Design  
-- **Backend (Optional):** Firebase / REST API  
-- **Database:** Firebase / SQLite / Room  
-- **Tools:** Android Studio, Gradle  
-
----
-
-## ⚙️ Setup & Installation (Android Studio)
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/ecommerce-android-app.git
 
 ---
 
