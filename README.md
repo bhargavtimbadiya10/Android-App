@@ -1,4 +1,4 @@
-# 🛒  Clikart E-Commerce App
+# 🛒  Clickart E-Commerce App
 
 This is a simple and modern **E-Commerce mobile application** built using **Android Studio**.  
 Users can browse products, add items to cart, place orders, and manage their profile.  
