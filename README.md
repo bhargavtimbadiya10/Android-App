@@ -1,4 +1,4 @@
-# 🛒 E-Commerce App
+# 🛒  Clikart E-Commerce App
 
 This is a simple and modern **E-Commerce mobile application** built using **Android Studio**.  
 Users can browse products, add items to cart, place orders, and manage their profile.  
@@ -31,9 +31,8 @@ The app includes a clean UI and smooth navigation for a better user experience.
   - Manage delivery address  
 
 - 🧑‍💼 **Admin Panel (Optional)**
-  - Add / edit / delete products  
-  - Manage orders and users  
-
+  - Only add the products 
+   
 - 🌙 **Beautiful UI**
   - Modern Material Design  
   - Light & Dark Mode support  
